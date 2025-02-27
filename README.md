@@ -1,4 +1,3 @@
-```markdown
 # Ice Cream Sales Prediction using Decision Tree Regression
 
 This project uses a Decision Tree Regression model to predict ice cream sales revenue based on temperature data. The dataset contains two features: `Temperature` (independent variable) and `Revenue` (dependent variable). The code demonstrates data preprocessing, model training, evaluation, and visualization of results.
